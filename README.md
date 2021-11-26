@@ -1,4 +1,4 @@
-# Mein erste Git Repo
+# Mein erstes Git Repo
 Hier liegen meine Bash-Skripte.
 
 - Datum: 2021-11-26
